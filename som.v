@@ -13,4 +13,3 @@ cd snarkOS
 cargo install --path .
 توییت برای فاست
 ------------------------------------------------------------------
-@AleoFaucet send 10 credits 
