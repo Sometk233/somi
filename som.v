@@ -7,4 +7,4 @@ git clone https://github.com/AleoHQ/leo
 cd leo
 apt install clang gcc libssl-dev pkg-config
 cargo install --path .
-git clone https://github.com/AleoHQ/snarkOS.git --depth 
+git clone https://github.com/AleoHQ/snarkOS.
